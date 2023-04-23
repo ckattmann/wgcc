@@ -1,0 +1,2 @@
+# wgcc
+Wireguard Control Center
